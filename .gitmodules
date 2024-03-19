@@ -1,0 +1,3 @@
+[submodule "scholarsync-server"]
+	path = scholarsync-server
+	url = git@github.com:ManuLosta/scholarsync-server.git
